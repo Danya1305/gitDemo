@@ -2,7 +2,7 @@
 2 Git
 3 Commits and repositories
 4 Git practice
-5 Branch remoute repo
+5 Branch feature1
 6 Remote repository
 7 Remote repository practice
 8 Merge conflict
@@ -11,4 +11,5 @@
 11 Outro
 12 Questions
 13 Feature
+14 Merge conflict local
 14 Merge conflict remote

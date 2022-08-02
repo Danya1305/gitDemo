@@ -1,0 +1,11 @@
+1 Intro
+2 Git
+3 Commits and repositories
+4 Git practice
+5 Branch
+6 Remote repository
+7 Remote repository practice
+8 Merge conflict
+9 Desktop GitHub
+10 Useful resources
+11 Outro
